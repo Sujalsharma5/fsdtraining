@@ -212,5 +212,5 @@ input[type="radio"]
 }
 .accordian input[type="radio"]:checked + label::after
 {
-    transform: rotate(135deg);
+    transform: rotate(140deg);
 }
